@@ -14,6 +14,7 @@ import {
 
 
 import LoginScreen from './screens/login';
+import ListingScreen from './screens/listing';
 
 
 
@@ -24,6 +25,7 @@ const App= () => {
     <SafeAreaView >
      <Text>hello world</Text>
      <LoginScreen />
+     {/* <ListingScreen /> */}
     </SafeAreaView>
   );
 };
