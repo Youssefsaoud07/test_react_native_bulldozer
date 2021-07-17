@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498604991167",
+    "project_id": "bulldozerapp-e037f",
+    "storage_bucket": "bulldozerapp-e037f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498604991167:android:a38521059c34cceb605c0a",
+        "android_client_info": {
+          "package_name": "com.bulldozertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498604991167-e2g0ufvfc017451gipuftj3p6jakivee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bulldozertest",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "498604991167-cgtuqdk4gi5s4gqnpkujljo46erdh412.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz3usryHQMKiDJ4_XYBccQ3WSzHIYVHOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498604991167-cgtuqdk4gi5s4gqnpkujljo46erdh412.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
