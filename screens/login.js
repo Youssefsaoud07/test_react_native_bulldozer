@@ -10,7 +10,7 @@ import {
     SafeAreaView,
     TextInput
   } from 'react-native';
-  import SocialButton from '../componenet/SocialButton';
+  
   const LoginScreen = () => {
 
 
